@@ -31,7 +31,7 @@ import{s as F,f as X,i as H,n as Q,r as K}from"../chunks/scheduler.56f0b95c.js";
   
   <p>
     <span style="font-size:24px;"
-          ><span style="color:#f1c40f;"><strong>Overiew</strong></span></span
+          ><span style="color:#f1c40f;"><strong>Overview</strong></span></span
         >
   </p>
   
@@ -51,9 +51,7 @@ import{s as F,f as X,i as H,n as Q,r as K}from"../chunks/scheduler.56f0b95c.js";
     </div>
   
     <div class="ipsSpoiler_contents" data-gramm="false">
-      <pre class="ipsCode prettyprint lang-html prettyprinted"><span class="pln">
-              ${x}
-  </span></pre>
+      <pre class="ipsCode prettyprint lang-html prettyprinted"><span class="pln"><br>${x}</span></pre>
   
       <p>&nbsp;</p>
     </div>
